@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\Soturno\Dropbox\H4D3S\Eclipse\Aulas_Arquivos\.metadata\.plugins\org.eclipse.jdt.core
+407277856.index
+491220947.index
+2292014242.index
+667433327.index
